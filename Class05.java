@@ -7,7 +7,7 @@ public class Class05
 }
 class CCount
 {   
-    int cnt=0;
+    static int cnt=0;
     public void count()
     {
         cnt += 1;
